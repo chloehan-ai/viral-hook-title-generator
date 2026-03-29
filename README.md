@@ -2,7 +2,7 @@
 
 A skill that helps creators generate viral titles and hooks for social media.
 
-Inspired by great marketing authors with 25+ proven copywriting techniques from marketing and advertising experts.
+Inspired by great marketing authors with 50+ proven copywriting techniques from marketing and advertising experts.
 
 ---
 
